@@ -1,0 +1,85 @@
+2023-05-19 12:48:39,334 - __main__     - INFO - app.py - <module> -40 - Importing python libraries.
+2023-05-19 12:48:39,335 - __main__     - INFO - app.py - <module> -44 - Initialising and configuring argument parser.
+2023-05-19 12:48:39,335 - __main__     - INFO - app.py - <module> -51 - Initialising argparser arguments.
+2023-05-19 12:48:39,337 - __main__     - INFO - app.py - <module> -59 - Defining constant variables includes HTML Template, file and folder paths.
+2023-05-19 12:48:39,337 - __main__     - INFO - app.py - <module> -828 - Validating the source file format.
+2023-05-19 12:48:39,337 - __main__     - INFO - app.py - <module> -835 - Creating Pandas dataframe from billz.xlsx
+2023-05-19 12:48:39,918 - __main__     - INFO - app.py - <module> -841 - Rounding of the numerical columns to 2 decimals.
+2023-05-19 12:48:39,921 - __main__     - INFO - app.py - <module> -845 - Standardizing the date format.
+2023-05-19 12:48:39,922 - __main__     - INFO - app.py - <module> -848 - Calculating GST value based on total invoice amount and GST percentage.
+2023-05-19 12:48:39,923 - __main__     - INFO - app.py - <module> -852 - Calling function to convert the amount in words (Indian Currancy Format).
+2023-05-19 12:48:39,923 - __main__     - INFO - app.py - money_in_words -803 - Calling 'money_in_words' function to get the amount in words. amount given - 204601.95
+2023-05-19 12:48:39,924 - __main__     - INFO - app.py - money_in_words -823 - Amount in words - Two Lakh Four Thousand Six Hundred And One Rupee Ninety Five Paisa Only
+2023-05-19 12:48:39,924 - __main__     - INFO - app.py - money_in_words -803 - Calling 'money_in_words' function to get the amount in words. amount given - 154330.69
+2023-05-19 12:48:39,924 - __main__     - INFO - app.py - money_in_words -823 - Amount in words - One Lakh Fifty Four Thousand Three Hundred And Thirty Rupees Sixty Nine Paisa Only
+2023-05-19 12:48:39,924 - __main__     - INFO - app.py - money_in_words -803 - Calling 'money_in_words' function to get the amount in words. amount given - 182052.29
+2023-05-19 12:48:39,924 - __main__     - INFO - app.py - money_in_words -823 - Amount in words - One Lakh Eighty Two Thousand And Fifty Two Rupees Twenty Nine Paisa Only
+2023-05-19 12:48:39,924 - __main__     - INFO - app.py - money_in_words -803 - Calling 'money_in_words' function to get the amount in words. amount given - 175432.2
+2023-05-19 12:48:39,924 - __main__     - INFO - app.py - money_in_words -823 - Amount in words - One Lakh Seventy Five Thousand Four Hundred And Thirty Two Rupees Two Paisa Only
+2023-05-19 12:48:39,924 - __main__     - INFO - app.py - money_in_words -803 - Calling 'money_in_words' function to get the amount in words. amount given - 172122.16
+2023-05-19 12:48:39,924 - __main__     - INFO - app.py - money_in_words -823 - Amount in words - One Lakh Seventy Two Thousand One Hundred And Twenty Two Rupees Sixteen Paisa Only
+2023-05-19 12:48:39,924 - __main__     - INFO - app.py - money_in_words -803 - Calling 'money_in_words' function to get the amount in words. amount given - 149365.63
+2023-05-19 12:48:39,925 - __main__     - INFO - app.py - money_in_words -823 - Amount in words - One Lakh Forty Nine Thousand Three Hundred And Sixty Five Rupees Sixty Three Paisa Only
+2023-05-19 12:48:39,925 - __main__     - INFO - app.py - money_in_words -803 - Calling 'money_in_words' function to get the amount in words. amount given - 160950.77
+2023-05-19 12:48:39,925 - __main__     - INFO - app.py - money_in_words -823 - Amount in words - One Lakh Sixty Thousand Nine Hundred And Fifty Rupees Seventy Seven Paisa Only
+2023-05-19 12:48:39,925 - __main__     - INFO - app.py - money_in_words -803 - Calling 'money_in_words' function to get the amount in words. amount given - 193223.68
+2023-05-19 12:48:39,925 - __main__     - INFO - app.py - money_in_words -823 - Amount in words - One Lakh Ninety Three Thousand Two Hundred And Twenty Three Rupees Sixty Eight Paisa Only
+2023-05-19 12:48:39,925 - __main__     - INFO - app.py - money_in_words -803 - Calling 'money_in_words' function to get the amount in words. amount given - 161778.28
+2023-05-19 12:48:39,925 - __main__     - INFO - app.py - money_in_words -823 - Amount in words - One Lakh Sixty One Thousand Seven Hundred And Seventy Eight Rupees Twenty Eight Paisa Only
+2023-05-19 12:48:39,925 - __main__     - INFO - app.py - money_in_words -803 - Calling 'money_in_words' function to get the amount in words. amount given - 201498.78
+2023-05-19 12:48:39,925 - __main__     - INFO - app.py - money_in_words -823 - Amount in words - Two Lakh One Thousand Four Hundred And Ninety Eight Rupees Seventy Eight Paisa Only
+2023-05-19 12:48:39,925 - __main__     - INFO - app.py - money_in_words -803 - Calling 'money_in_words' function to get the amount in words. amount given - 165295.2
+2023-05-19 12:48:39,926 - __main__     - INFO - app.py - money_in_words -823 - Amount in words - One Lakh Sixty Five Thousand Two Hundred And Ninety Five Rupees Two Paisa Only
+2023-05-19 12:48:39,926 - __main__     - INFO - app.py - money_in_words -803 - Calling 'money_in_words' function to get the amount in words. amount given - 152468.79
+2023-05-19 12:48:39,926 - __main__     - INFO - app.py - money_in_words -823 - Amount in words - One Lakh Fifty Two Thousand Four Hundred And Sixty Eight Rupees Seventy Nine Paisa Only
+2023-05-19 12:48:39,926 - __main__     - INFO - app.py - money_in_words -803 - Calling 'money_in_words' function to get the amount in words. amount given - 178328.49
+2023-05-19 12:48:39,926 - __main__     - INFO - app.py - money_in_words -823 - Amount in words - One Lakh Seventy Eight Thousand Three Hundred And Twenty Eight Rupees Forty Nine Paisa Only
+2023-05-19 12:48:39,926 - __main__     - INFO - app.py - money_in_words -803 - Calling 'money_in_words' function to get the amount in words. amount given - 175845.96
+2023-05-19 12:48:39,926 - __main__     - INFO - app.py - money_in_words -823 - Amount in words - One Lakh Seventy Five Thousand Eight Hundred And Forty Five Rupees Ninety Six Paisa Only
+2023-05-19 12:48:39,926 - __main__     - INFO - app.py - money_in_words -803 - Calling 'money_in_words' function to get the amount in words. amount given - 166329.59
+2023-05-19 12:48:39,926 - __main__     - INFO - app.py - money_in_words -823 - Amount in words - One Lakh Sixty Six Thousand Three Hundred And Twenty Nine Rupees Fifty Nine Paisa Only
+2023-05-19 12:48:39,926 - __main__     - INFO - app.py - money_in_words -803 - Calling 'money_in_words' function to get the amount in words. amount given - 201498.78
+2023-05-19 12:48:39,926 - __main__     - INFO - app.py - money_in_words -823 - Amount in words - Two Lakh One Thousand Four Hundred And Ninety Eight Rupees Seventy Eight Paisa Only
+2023-05-19 12:48:39,927 - __main__     - INFO - app.py - money_in_words -803 - Calling 'money_in_words' function to get the amount in words. amount given - 149986.26
+2023-05-19 12:48:39,927 - __main__     - INFO - app.py - money_in_words -823 - Amount in words - One Lakh Forty Nine Thousand Nine Hundred And Eighty Six Rupees Twenty Six Paisa Only
+2023-05-19 12:48:39,927 - __main__     - INFO - app.py - money_in_words -803 - Calling 'money_in_words' function to get the amount in words. amount given - 3121046.64
+2023-05-19 12:48:39,928 - __main__     - INFO - app.py - money_in_words -823 - Amount in words - Thirty One Lakh Twenty One Thousand And Forty Six Rupees Sixty Four Paisa Only
+2023-05-19 12:48:39,928 - __main__     - INFO - app.py - money_in_words -803 - Calling 'money_in_words' function to get the amount in words. amount given - 0.0
+2023-05-19 12:48:39,928 - __main__     - INFO - app.py - money_in_words -819 - Amount in words - Nil
+2023-05-19 12:48:39,928 - __main__     - INFO - app.py - money_in_words -803 - Calling 'money_in_words' function to get the amount in words. amount given - 0.0
+2023-05-19 12:48:39,928 - __main__     - INFO - app.py - money_in_words -819 - Amount in words - Nil
+2023-05-19 12:48:39,928 - __main__     - INFO - app.py - money_in_words -803 - Calling 'money_in_words' function to get the amount in words. amount given - 0.0
+2023-05-19 12:48:39,928 - __main__     - INFO - app.py - money_in_words -819 - Amount in words - Nil
+2023-05-19 12:48:39,928 - __main__     - INFO - app.py - money_in_words -803 - Calling 'money_in_words' function to get the amount in words. amount given - 0.0
+2023-05-19 12:48:39,928 - __main__     - INFO - app.py - money_in_words -819 - Amount in words - Nil
+2023-05-19 12:48:39,928 - __main__     - INFO - app.py - money_in_words -803 - Calling 'money_in_words' function to get the amount in words. amount given - 0.0
+2023-05-19 12:48:39,928 - __main__     - INFO - app.py - money_in_words -819 - Amount in words - Nil
+2023-05-19 12:48:39,928 - __main__     - INFO - app.py - money_in_words -803 - Calling 'money_in_words' function to get the amount in words. amount given - 0.0
+2023-05-19 12:48:39,928 - __main__     - INFO - app.py - money_in_words -819 - Amount in words - Nil
+2023-05-19 12:48:39,928 - __main__     - INFO - app.py - money_in_words -803 - Calling 'money_in_words' function to get the amount in words. amount given - 0.0
+2023-05-19 12:48:39,929 - __main__     - INFO - app.py - money_in_words -819 - Amount in words - Nil
+2023-05-19 12:48:39,929 - __main__     - INFO - app.py - money_in_words -803 - Calling 'money_in_words' function to get the amount in words. amount given - 0.0
+2023-05-19 12:48:39,929 - __main__     - INFO - app.py - money_in_words -819 - Amount in words - Nil
+2023-05-19 12:48:39,929 - __main__     - INFO - app.py - money_in_words -803 - Calling 'money_in_words' function to get the amount in words. amount given - 0.0
+2023-05-19 12:48:39,929 - __main__     - INFO - app.py - money_in_words -819 - Amount in words - Nil
+2023-05-19 12:48:39,929 - __main__     - INFO - app.py - money_in_words -803 - Calling 'money_in_words' function to get the amount in words. amount given - 0.0
+2023-05-19 12:48:39,929 - __main__     - INFO - app.py - money_in_words -819 - Amount in words - Nil
+2023-05-19 12:48:39,929 - __main__     - INFO - app.py - money_in_words -803 - Calling 'money_in_words' function to get the amount in words. amount given - 0.0
+2023-05-19 12:48:39,929 - __main__     - INFO - app.py - money_in_words -819 - Amount in words - Nil
+2023-05-19 12:48:39,929 - __main__     - INFO - app.py - money_in_words -803 - Calling 'money_in_words' function to get the amount in words. amount given - 0.0
+2023-05-19 12:48:39,929 - __main__     - INFO - app.py - money_in_words -819 - Amount in words - Nil
+2023-05-19 12:48:39,929 - __main__     - INFO - app.py - money_in_words -803 - Calling 'money_in_words' function to get the amount in words. amount given - 0.0
+2023-05-19 12:48:39,929 - __main__     - INFO - app.py - money_in_words -819 - Amount in words - Nil
+2023-05-19 12:48:39,929 - __main__     - INFO - app.py - money_in_words -803 - Calling 'money_in_words' function to get the amount in words. amount given - 0.0
+2023-05-19 12:48:39,929 - __main__     - INFO - app.py - money_in_words -819 - Amount in words - Nil
+2023-05-19 12:48:39,929 - __main__     - INFO - app.py - money_in_words -803 - Calling 'money_in_words' function to get the amount in words. amount given - 0.0
+2023-05-19 12:48:39,929 - __main__     - INFO - app.py - money_in_words -819 - Amount in words - Nil
+2023-05-19 12:48:39,929 - __main__     - INFO - app.py - money_in_words -803 - Calling 'money_in_words' function to get the amount in words. amount given - 0.0
+2023-05-19 12:48:39,930 - __main__     - INFO - app.py - money_in_words -819 - Amount in words - Nil
+2023-05-19 12:48:39,930 - __main__     - INFO - app.py - <module> -858 - Bringing all the columns to string datatype.
+2023-05-19 12:48:39,935 - __main__     - INFO - app.py - <module> -861 - Getting each row in the pandas dataframe in Tuples.
+2023-05-19 12:48:39,938 - __main__     - INFO - app.py - <module> -869 - Iterating loop to generate dynamic HTML.
+2023-05-19 12:48:39,950 - __main__     - INFO - app.py - <module> -889 - Initialising and configuring the pdfkit library to create PDF using HTML content.
+2023-05-19 12:48:39,950 - __main__     - INFO - app.py - <module> -899 - Creating PDFs using HTML.
+2023-05-19 12:49:18,967 - __main__     - INFO - app.py - <module> -917 - Validating the LUT file extension.
+2023-05-19 12:49:18,967 - __main__     - INFO - app.py - <module> -926 - Appending LUT file at the bottom of each Invoice.

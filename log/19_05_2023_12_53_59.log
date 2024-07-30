@@ -1,0 +1,14 @@
+2023-05-19 12:53:59,949 - __main__     - INFO - app.py - <module> -40 - Importing python libraries.
+2023-05-19 12:53:59,949 - __main__     - INFO - app.py - <module> -44 - Initialising and configuring argument parser.
+2023-05-19 12:53:59,950 - __main__     - INFO - app.py - <module> -51 - Initialising argparser arguments.
+2023-05-19 12:53:59,951 - __main__     - INFO - app.py - <module> -59 - Defining constant variables includes HTML Template, file and folder paths.
+2023-05-19 12:53:59,951 - __main__     - INFO - app.py - <module> -828 - Validating the source file format.
+2023-05-19 12:53:59,951 - __main__     - INFO - app.py - <module> -835 - Creating Pandas dataframe from biilz.xlsx
+2023-05-19 12:53:59,962 - __main__     - CRITICAL - app.py - <module> -864 - An error occure while reading and analysis the source data. Error: [Errno 2] No such file or directory: 'F:\\RECORDSTOPDF\\project\\invoice_generation\\upload//biilz.xlsx'
+2023-05-19 12:53:59,963 - __main__     - INFO - app.py - <module> -869 - Iterating loop to generate dynamic HTML.
+2023-05-19 12:53:59,963 - __main__     - CRITICAL - app.py - <module> -876 - An error occure while iterating loop to generate dynamic HTML. Error: name 'invoice_info' is not defined
+2023-05-19 12:53:59,963 - __main__     - INFO - app.py - <module> -889 - Initialising and configuring the pdfkit library to create PDF using HTML content.
+2023-05-19 12:53:59,963 - __main__     - INFO - app.py - <module> -899 - Creating PDFs using HTML.
+2023-05-19 12:54:00,002 - __main__     - INFO - app.py - <module> -917 - Validating the LUT file extension.
+2023-05-19 12:54:00,002 - __main__     - INFO - app.py - <module> -926 - Appending LUT file at the bottom of each Invoice.
+2023-05-19 12:54:00,003 - __main__     - CRITICAL - app.py - <module> -948 - An error occure while appending LUT file at the bottom of invoice PDFs. Error: [Errno 2] No such file or directory: 'F:\\RECORDSTOPDF\\project\\invoice_generation\\LUT/@echo off.pdf'
